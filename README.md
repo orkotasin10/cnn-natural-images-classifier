@@ -46,28 +46,6 @@ The repository includes:
 ---
 
 # 📂 Repository Structure
-cnn-natural-images-classifier/
-├── notebooks/
-│ └── AML_TASIN.ipynb
-├── reports/
-│ ├── AML MINI PROJECT REPORT.docx
-│ └── AML PROJECT REPORT.pdf
-├── src/
-│ ├── init.py
-│ ├── model.py
-│ ├── train.py
-│ └── predict.py
-├── demos/
-│ ├── demo.gif
-│ ├── loss_accuracy.png
-│ ├── confusion_matrix.png
-│ └── sample_input.jpg
-├── requirements.txt
-├── DATA.md
-├── README.md
-└── LICENSE
-
----
 
 # ⚙️ Installation
  1️⃣ Clone the repository
