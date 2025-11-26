@@ -1,0 +1,22 @@
+cnn-natural-images-classifier/
+├─ .gitignore
+├─ LICENSE
+├─ README.md
+├─ requirements.txt
+├─ DATA.md
+├─ notebooks/
+│  └─ AML_TASIN (3).ipynb
+├─ reports/
+│  └─ AML MINI PROJECT REPORT.docx
+│  └─ AML_PROJECT_REPORT.pdf
+├─ src/
+│  ├─ __init__.py
+│  ├─ model.py
+│  ├─ train.py
+│  └─ predict.py
+├─ demos/
+│  ├─ demo.gif
+│  └─ sample_input.jpg
+└─ .github/
+   └─ workflows/
+      └─ ci.yml   (optional: lightweight lint/test)
